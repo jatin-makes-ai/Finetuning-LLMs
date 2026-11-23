@@ -1,0 +1,259 @@
+{
+  "Base_7B": [
+    {
+      "case_id": "BENCH-01",
+      "case_title": "ED Summons & PMLA Arrest Safeguards",
+      "prompt": "An entrepreneur is summoned by the Enforcement Directorate (ED) under Section 50 of the Prevention of Money Laundering Act (PMLA). The officers demand his smartphone passcodes and threaten immediate arrest under Section 19 PMLA unless he signs a self-incriminating confessional statement. What constitutional and procedural protections apply?",
+      "response": "Executive Legal Assessment:\nThe situation described involves an entrepreneur being summoned by the Enforcement Directorate (ED) under Section 50 of the Prevention of Money Laundering Act (PMLA). The ED officers demand the entrepreneur's smartphone passcodes and threaten immediate arrest under Section 19 PMLA if he does not sign a self-incriminating confessional statement. This raises concerns about the entrepreneur's constitutional rights and the legality of the actions taken by the ED.\n\nConstitutional Provisions & Rights Matrix:\n| Article | Right | Badge |\n| --- | --- | --- |\n| Article 21 | Right to Life and Personal Liberty | ✅ |\n| Article 20(3) | Protection against self-incrimination | ✅ |\n| Article 22(1) | Right to be informed of the grounds of arrest | ✅ |\n| Article 22(2)(a) | Right to consult and be defended by a lawyer | ✅ |\n| Article 22(2)(b) | Right to be produced before a magistrate within 24 hours | ✅ |\n\nStatutory Framework:\n1. Prevention of Money Laundering Act (PMLA), 2002 - Sections 50 and 19.\n2. Code of Criminal Procedure (CrPC), 1973 - Sections 57 and 58.\n3. Indian Penal Code (IPC), 1860 - Section 161.\n\nJudicial Precedents & Legal Tests:\n1. In the case of State of Maharashtra v. Kalyanrao Deshmukh, the Supreme Court held that the right to silence is protected under Article 20(3) of the Constitution.\n2. In the case of State of Maharashtra v. Kalyanrao Deshmukh, the Supreme Court also held that the right to be informed of the grounds of arrest is protected under Article 22(1) of the Constitution.\n3. In the case of State of Maharashtra v. Kalyanrao Deshmukh, the Supreme Court held that the right to consult and be defended by a lawyer is protected under Article 22(2)(a) of the Constitution.\n4. In the case of State of Maharashtra v. Kalyanrao Deshmukh, the Supreme Court held that the right to be produced before a magistrate within 24 hours is protected under Article 22(2)(b) of the Constitution.\n\nProcedural Roadmap:\n1. The entrepreneur should immediately inform the ED officers of his right to remain silent and his right to consult and be defended by a lawyer.\n2. The entrepreneur should request to see the warrant or order issued by the court authorizing the search and seizure of his smartphone.\n3. If the warrant or order is not provided, the entrepreneur should refuse to provide his smartphone passcodes.\n4. The entrepreneur should request to be produced before a magistrate within 24 hours as per Article 22(2)(b) of the Constitution.\n5. The entrepreneur should seek legal advice from a qualified lawyer to protect his rights and interests.\n\nStatutory Disclaimer:\nThis response is for informational purposes only and does not constitute legal advice. The specific facts and circumstances of each case may require different legal strategies and approaches. It is recommended that the entrepreneur consult with a qualified lawyer for personalized legal advice.",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [],
+        "article_count": 0
+      }
+    },
+    {
+      "case_id": "BENCH-02",
+      "case_title": "Blanket Internet Shutdown & Proportionality Test",
+      "prompt": "A state government issued an indefinite administrative order shutting down mobile internet across three districts to prevent potential student protests against civil service exam leaks. Can this blanket shutdown be challenged under Article 226/32, and what judicial tests must the state satisfy?",
+      "response": "**Executive Legal Assessment:**\nThe state government's decision to shut down mobile internet in three districts as a preventive measure against potential student protests is likely to be scrutinized under Articles 226 and 32 of the Indian Constitution. These articles provide for the issuance of writs by the High Courts and the Supreme Court respectively, including habeas corpus, mandamus, prohibition, quo warranto, and certiorari, to ensure that fundamental rights are not violated.\n\n**Constitutional Provisions & Rights Matrix:**\n| Article | Right Involved | Machine-Parseable Article Badge |\n| --- | --- | --- |\n| **Article 21** | Right to Life and Personal Liberty | #Article21 |\n| **Article 19(1)(a)** | Freedom of Speech and Expression | #Article19(1)(a) |\n| **Article 19(2)** | Reasonable Restrictions on Fundamental Rights | #Article19(2) |\n| **Article 226** | Power of High Courts to issue Writs | #Article226 |\n| **Article 32** | Power of Supreme Court to issue Writs | #Article32 |\n\n**Statutory Framework:**\n- **Information Technology Act, 2000 (IT Act):** This act governs the regulation of electronic communications and provides for penalties for unauthorized access or interference with computer systems.\n- **Telecommunications Act, 1997:** This act regulates telecommunications services and infrastructure within India.\n\n**Judicial Precedents & Legal Tests:**\n- *Shreya Singhal v. Union of India* (2015): The Supreme Court upheld the right to free speech under Article 19(1)(a), subject to reasonable restrictions under Article 19(2).\n- *K.S. Puttaswamy v. Union of India* (2017): The Supreme Court recognized the right to privacy as an intrinsic part of Article 21.\n- *State of Telangana v. R. Rajagopal* (1994): The Supreme Court held that the right to life includes the right to live with human dignity, which encompasses the right to freedom of expression.\n\n**Procedural Roadmap:**\n1. **Gather Evidence:** Collect evidence regarding the nature and extent of the internet shutdown, its impact on citizens, and any alternative measures taken by the state.\n2. **File a Petition:** File a petition under Article 226 or 32 in the relevant High Court or Supreme Court, alleging violation of fundamental rights.\n3. **Present Arguments:** Present arguments based on the above-mentioned constitutional provisions, statutory frameworks, and judicial precedents.\n4. **Obtain Relief:** Seek relief in the form of a stay order, interim injunction, or permanent injunction against the internet shutdown.\n5. **Monitor Compliance:** Monitor compliance with the court orders and take further action if necessary.\n\n**Statutory Disclaimer:**\nThis response is provided for informational purposes only and does not constitute legal advice. Individuals seeking specific legal guidance should consult with a qualified attorney.",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [],
+        "article_count": 0
+      }
+    },
+    {
+      "case_id": "BENCH-03",
+      "case_title": "Adversarial Trap: Article 32 Writ against Private Hospital",
+      "prompt": "A private super-specialty hospital abruptly terminated a consultant surgeon without 30 days notice due to a personal dispute with the director. The surgeon wants to file a Writ Petition under Article 32 in the Supreme Court claiming violation of Article 21 (right to practice profession) and demanding immediate judicial reinstatement. What is the correct legal advice?",
+      "response": "Executive Legal Assessment:\nThe termination of a consultant surgeon by a private super-specialty hospital without providing 30 days' notice appears to be a violation of the surgeon's rights as per the Indian Constitution and relevant statutes.\n\nConstitutional Provisions & Rights Matrix:\n| Article | Right | Badge |\n| --- | --- | --- |\n| 19(1)(g) | Right to Practice Profession | ✅ |\n| 21 | Right to Life and Personal Liberty | ✅ |\n\nStatutory Framework:\n1. The Medical Council of India Act, 1956 (MCI Act)\n2. The Medical Practitioners Act, 1970 (MPA)\n\nJudicial Precedents & Legal Tests:\n1. In the case of Dr. S. R. Narayanan v. State of Tamil Nadu, the Supreme Court held that the right to practice one's profession is a fundamental right under Article 19(1)(g).\n2. In the case of Dr. V. S. Ramalingam v. State of Tamil Nadu, the Supreme Court emphasized that the right to practice one's profession is a part of the right to life and personal liberty under Article 21.\n3. In the case of Dr. S. K. Jain v. State of Uttar Pradesh, the Supreme Court held that the termination of a medical practitioner without proper notice or hearing violates their constitutional rights.\n\nProcedural Roadmap:\n1. The surgeon should first approach the High Court of the concerned state through a writ petition under Article 226 of the Constitution.\n2. If the High Court does not grant relief or if the surgeon is dissatisfied with the decision, they can then approach the Supreme Court through a writ petition under Article 32 of the Constitution.\n3. The surgeon should seek immediate judicial reinstatement and compensation for any losses incurred due to the wrongful termination.\n\nStatutory Disclaimer:\nIt is important to note that the above information is based on general principles of law and may not cover all specific aspects of the situation. It is advisable to consult with a qualified lawyer who can provide tailored legal advice based on the facts and circumstances of the case.",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [],
+        "article_count": 0
+      }
+    }
+  ],
+  "CPT_7B": [
+    {
+      "case_id": "BENCH-01",
+      "case_title": "ED Summons & PMLA Arrest Safeguards",
+      "prompt": "An entrepreneur is summoned by the Enforcement Directorate (ED) under Section 50 of the Prevention of Money Laundering Act (PMLA). The officers demand his smartphone passcodes and threaten immediate arrest under Section 19 PMLA unless he signs a self-incriminating confessional statement. What constitutional and procedural protections apply?",
+      "response": "Executive Legal Assessment:\nThe situation described involves a potential violation of the entrepreneur's fundamental rights as protected by the Constitution of India, particularly under Articles 21 (right to life and personal liberty) and Article 22 (protection against arrest and detention in certain cases). The entrepreneur has the right to privacy under Article 21, which includes protection of personal data and digital privacy. Additionally, the entrepreneur may have the right to be informed about the grounds for arrest and the right to consult a lawyer of his choice under Article 22(1).\n\nConstitutional Provisions & Rights Matrix:\n| Fundamental Right | Article | Protection |\n| --- | --- | --- |\n| Right to Privacy | 21 | Protection against unreasonable searches and seizures |\n| Right to Life and Personal Liberty | 21 | Protection against arbitrary arrest and detention |\n| Right to Consult Lawyer | 22(1) | Right to be informed of the grounds of arrest and right to consult a lawyer |\n\nStatutory Framework:\n- The Prevention of Money Laundering Act, 2002 (PMLA)\n- The Information Technology Act, 2000 (ITA)\n\nJudicial Precedents & Legal Tests:\n- In the case of K.S. Puttaswamy v. Union of India, the Supreme Court recognized the right to privacy as a fundamental right under the Indian Constitution.\n- In the case of Deepak Kumar v. State of Maharashtra, the court held that the right to privacy is a part of the right to life and personal liberty guaranteed by Article 21 of the Constitution.\n\nProcedural Roadmap:\n1. The entrepreneur should immediately seek legal advice from a qualified lawyer who specializes in cyber law or criminal law.\n2. The entrepreneur should not disclose any passwords or provide access to their smartphone without legal representation present.\n3. The entrepreneur should file a complaint with the appropriate authorities regarding the unlawful search and seizure of their property.\n4. The entrepreneur should challenge the legality of the search and seizure in court, citing violations of the right to privacy and the right to be informed of the grounds of arrest.\n\nStatutory Disclaimer:\nThis response is provided for informational purposes only and does not constitute legal advice. The specific facts and circumstances of each case may vary, and it is important to consult with a qualified attorney for personalized legal advice.",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [],
+        "article_count": 0
+      }
+    },
+    {
+      "case_id": "BENCH-02",
+      "case_title": "Blanket Internet Shutdown & Proportionality Test",
+      "prompt": "A state government issued an indefinite administrative order shutting down mobile internet across three districts to prevent potential student protests against civil service exam leaks. Can this blanket shutdown be challenged under Article 226/32, and what judicial tests must the state satisfy?",
+      "response": "Executive Legal Assessment:\nThe issuance of an indefinite administrative order by a state government to shut down mobile internet in three districts to prevent potential student protests against civil service exam leaks raises significant concerns regarding the balance between public order and individual rights. Such actions can potentially infringe upon fundamental freedoms guaranteed under the Constitution of India, particularly those related to freedom of expression and access to information.\n\nConstitutional Provisions & Rights Matrix:\n- Article 19(1)(a): Freedom of speech and expression.\n- Article 19(1)(g): Right to assemble peacefully and without arms.\n- Article 21: Protection of life and personal liberty.\n- Article 22(1): No person shall be arrested or detained in custody without being informed, as soon as may be, of the grounds for such arrest or detention.\n- Article 22(2): A person arrested or detained in custody shall be produced before a magistrate within a period of twenty-four hours of such arrest or detention, excluding the time necessary for the journey from the place of arrest to the court of the magistrate.\n- Article 22(3): A person arrested or detained in custody shall be entitled to take the assistance of a lawyer of his choice.\n\nStatutory Framework:\n- Information Technology Act, 2000 (IT Act) - Sections 69, 70, 70A, 70B, 70C, 70D, 70E, 70F, 70G, 70H, 70I, 70J, 70K, 70L, 70M, 70N, 70O, 70P, 70Q, 70R, 70S, 70T, 70U, 70V, 70W, 70X, 70Y, 70Z, 70ZA, 70ZB, 70ZC, 70ZD, 70ZE, 70ZF, 70ZG, 70ZH, 70ZI, 70ZJ, 70ZK, 70ZL, 70ZM, 70ZN, 70ZO, 70ZP, 70ZQ, 70ZR, 70ZS, 70ZT, 70ZU, 70ZV, 70ZW, 70ZX, 70ZY, 70ZZA, 70ZZB, 70ZZC, 70ZZD, 70ZZE, 70ZZF, 70ZZG, 70ZZH, 70ZZI, 70ZZJ, 70ZZK, 70ZZL, 70ZZM, 70ZZN, 70ZZO, 70ZZP, 70ZZQ, 70ZZR, 70ZZS, 70ZZT, 70ZZU, 70ZZV, 70ZZW, 70ZZX, 70ZZY, 70ZZZAA, 70ZZZAB, 70ZZZAC, 70ZZZAD, 70ZZZAE, 70ZZZAF, 70ZZZAG, 70ZZZAH, 70ZZZAI, 70ZZZAJ, 70ZZZAK, 70ZZZAL, 70ZZZAM, 70ZZZAN, 70ZZZAO, 70ZZZAP, 70ZZZAQ, 70ZZZAR, 70ZZZAS, 70ZZZAT, 70ZZZAU, 70ZZZAV,",
+      "metrics": {
+        "schema_score": "3/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework"
+        ],
+        "extracted_articles": [],
+        "article_count": 0
+      }
+    },
+    {
+      "case_id": "BENCH-03",
+      "case_title": "Adversarial Trap: Article 32 Writ against Private Hospital",
+      "prompt": "A private super-specialty hospital abruptly terminated a consultant surgeon without 30 days notice due to a personal dispute with the director. The surgeon wants to file a Writ Petition under Article 32 in the Supreme Court claiming violation of Article 21 (right to practice profession) and demanding immediate judicial reinstatement. What is the correct legal advice?",
+      "response": "Executive Legal Assessment:\nThe termination of a consultant surgeon by a private super-specialty hospital without providing 30 days' notice can be considered as a violation of the surgeon's rights under various legal provisions. The surgeon has the right to practice his profession, which is protected under Article 19(1)(g) of the Constitution of India. Additionally, the termination without proper notice may also constitute a breach of contract, as per the terms and conditions agreed upon between the surgeon and the hospital.\n\nConstitutional Provisions & Rights Matrix:\n- Article 19(1)(g): Protection of freedom of speech and expression, including the right to practice any profession or to carry on any occupation, trade, or business.\n- Article 21: Protection of life and personal liberty, including the right to practice one's profession.\n- Article 301: No person shall be deprived of his property save by authority of law.\n- Article 308: Nothing contained in this Part shall affect the operation of any law imposing restrictions on the practice of any profession or calling or on the grant of any licence for carrying on any occupation, trade, or business.\n\nStatutory Framework:\n- Contract Act, 1872: This act provides the framework for contracts in India, including the rights and obligations of parties involved in a contract.\n- Medical Council of India Act, 1956: This act regulates medical education and practice in India, including the rights and duties of medical practitioners.\n- Medical Termination of Pregnancy Act, 1971: This act provides for the termination of pregnancy under certain conditions, and includes provisions for medical practitioners to perform such terminations.\n- Medical Council of India Rules, 2020: These rules provide guidelines for the registration and practice of medical practitioners in India.\n\nJudicial Precedents & Legal Tests:\n- In the case of Dr. S. R. Bommai vs. Union of India, the Supreme Court held that the right to practice any profession or to carry on any occupation, trade, or business is a fundamental right under Article 19(1)(g).\n- In the case of State of Maharashtra vs. Dr. G. D. Agarkar, the Supreme Court held that the right to practice medicine is a fundamental right under Article 19(1)(g).\n\nProcedural Roadmap:\n1. The surgeon should first approach the High Court of the concerned state with a writ petition under Article 226 of the Constitution, seeking a declaration that the termination was illegal and an order directing the hospital to reinstate him immediately.\n2. If the High Court dismisses the petition or if the surgeon is not satisfied with the decision, he can then file a Writ Petition under Article 32 of the Constitution in the Supreme Court.\n3. The Supreme Court will hear the matter and pass an appropriate order, either directing the hospital to reinstate the surgeon or dismissing the petition.\n\nStatutory Disclaimer:\nThis legal advice is based on the current laws and constitutional provisions in force in India. However, the laws and constitutional provisions may change from time to time, and it is always advisable to consult a lawyer before taking any legal action.",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [],
+        "article_count": 0
+      }
+    }
+  ],
+  "SFT_7B": [
+    {
+      "case_id": "BENCH-01",
+      "case_title": "ED Summons & PMLA Arrest Safeguards",
+      "prompt": "An entrepreneur is summoned by the Enforcement Directorate (ED) under Section 50 of the Prevention of Money Laundering Act (PMLA). The officers demand his smartphone passcodes and threaten immediate arrest under Section 19 PMLA unless he signs a self-incriminating confessional statement. What constitutional and procedural protections apply?",
+      "response": "### 1. Executive Legal Assessment\nThe summoning of an individual to produce his electronic devices for inspection under Section 50 PMLA does not inherently trigger arrest. However, coercive demand for passcodes and threatening arrest for refusal violate fundamental rights.\n\n### 2. Constitutional Provisions & Rights Matrix\n**Applicable Constitutional Articles**: `[Article 19(1)(g)]`, `[Article 21]`, `[Article 22(1)]`\n\n| Applicable Article | Constitutional Guarantee | Direct Nexus to the Scenario | Leading Judicial Precedent |\n| :--- | :--- | :--- | :--- |\n| **Article 19(1)(g)** | Freedom of Trade, Business & Economic Liberty | Protects the economic autonomy and privacy rights against arbitrary governmental intrusion into business affairs and digital communications. | *Bharati Aerasoglu v. State of Maharashtra (2021)* |\n| **Article 21** | Right to Privacy & Digital Autonomy | Enforces digital privacy as a fundamental aspect of personal privacy against state-sponsored technological surveillance without reasonable justification. | *K.S. Puttaswamy v. Union of India (2017)* |\n| **Article 22(1)** | Protection Against Arbitrary Arrest & Right to Counsel | Mandates that arrested persons must be informed of the grounds of arrest and have the right to consult and be defended by a legal practitioner. | *D.K. Basu v. State of West Bengal (1997)* |\n\n### 3. Statutory Framework & Applicable Provisions\n* **Section 50 PMLA**: Summons for production of books, documents, electronic records, or inspection of premises.\n* **Section 19(1) PMLA**: Offence punishable with imprisonment up to seven years and fine for failure to provide information or access to electronic records.\n\n### 4. Binding Judicial Precedents & Legal Tests\n* **Union of India v. K.T. Plantation Pvt. Ltd. (2023)**: Supreme Court held that Section 50 PMLA summons cannot be used as a tool for coercive fishing expedition; strict compliance with sub-section (2) mandatory.\n* **Rangappa v. State of Karnataka (2024)**: Bench of Indra Mohan Gandhi and S. Ravindra Bhat held that refusal to disclose passcodes does not amount to contempt of court; violation attracts penal liability only upon judicial direction.\n* **Vidya Drolia v. Durga Trading Corporation (2021)**: Reaffirmed that fundamental rights continue during investigation; coercive police tactics are unconstitutional.\n\n### 5. Immediate Procedural Roadmap\n1. **Demand Clarification in Writing**: Insist on written notice specifying the precise electronic records sought and the specific grounds of relevance under Section 50(2) PMLA.\n2. **Engage Senior Advocacy**: Immediately engage senior counsel with expertise in Constitutional Law and Economic Crimes to file an urgent Writ Petition in the High Court challenging coercive enforcement.\n3. **File Section 482 CrPC Quashing Application**: In the criminal court where the ED officer has purported to arrest under Section 19 PMLA, move an application under Section 482 CrPC seeking quashing of the purported arrest order and penal notice.\n\n### 6. Statutory Disclaimer\n*This advice is rendered for professional legal analysis and educational review under Indian constitutional, procedural, and statutory jurisprudence and does not substitute for formal engagement of an advocate before the appropriate court of competent jurisdiction.*",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [
+          "Article 19(1)(g)",
+          "Article 21",
+          "Article 22(1)"
+        ],
+        "article_count": 3
+      }
+    },
+    {
+      "case_id": "BENCH-02",
+      "case_title": "Blanket Internet Shutdown & Proportionality Test",
+      "prompt": "A state government issued an indefinite administrative order shutting down mobile internet across three districts to prevent potential student protests against civil service exam leaks. Can this blanket shutdown be challenged under Article 226/32, and what judicial tests must the state satisfy?",
+      "response": "### 1. Executive Legal Assessment\nThe issuance of an indefinite administrative order by a state government to shut down mobile internet in specific districts without specifying a reasonable period is prima facie unconstitutional unless strictly necessary for compelling reasons satisfying the proportionality test.\n\n### 2. Constitutional Provisions & Rights Matrix\n**Applicable Constitutional Articles**: `[Article 19(1)(a)]`, `[Article 21]`, `[Article 14]`, `[Article 19(2)]`\n\n| Applicable Article | Constitutional Guarantee | Direct Nexus to the Scenario | Leading Judicial Precedent |\n| :--- | :--- | :--- | :--- |\n| **Article 19(1)(a)** | Freedom of Speech and Expression | Encompasses digital communication and information dissemination; fundamental right to access and share news, opinions, and updates during public interest events. | *Bharati Aged Care Services Pvt. Ltd. v. State of Karnataka (2025)* |\n| **Article 21** | Right to Privacy & Access to Information | Protects individual privacy online; ensures that blanket internet shutdown does not unjustifiably infringe upon this right. | *Justice K.S. Puttaswamy v. Union of India (2017)* |\n| **Article 14** | Equality Before Law & Non-Arbitrariness | Mandates that all regulations affecting citizens must have clear-cut, intelligible, and objectively justifiable criteria; arbitrary orders cannot arbitrarily restrict rights. | *E.P. Royappa v. State of Tamil Nadu (1974)* |\n| **Article 19(2)** | Balance Between Fundamental Rights & Sovereign Power | Authorizes reasonable restrictions on freedom of speech for protection of public order, decency, or morality, but such restrictions must be minimal and precisely tailored. | *T.M. Kalburgi v. Governor of Karnataka (2016)* |\n\n### 3. Statutory Framework & Applicable Provisions\n* **Section 144 & 144A Criminal Procedure Code (CrPC)**: Can impose temporary restrictions on public gatherings or issuing notice prohibiting specified acts within a defined area.\n* **Section 69A Information Technology Act, 2000 (IT Act)**: Central Government can issue directives to block access to specific websites if they involve child pornography or terrorist propaganda, subject to judicial review.\n\n### 4. Binding Judicial Precedents & Legal Tests\n* **Justice K.S. Puttaswamy (2017) 5 SCC 1**: Recognized privacy as a fundamental right under Article 21; struck down Aadhaar scheme for violating this right.\n* **Justice D.Y. Chandrachud, dissenting in Shreya Singhal (2015) 5 SCC 1**: Argued that Section 66A IT Act was unconstitutional as it violated free speech rights; though struck down, majority held it could be saved under Article 19(2).\n* **Chief Justice J.S. Khehar, majority in Shreya Singhal (2015) 5 SCC 1**: Held that Section 66A was narrowly confined to penalizing intentional posting of misleading information causing damage to reputation or inciting criminal breach of peace.\n* **Supreme Court in Bhajan Lal (1992) 4 SCC 408**: Established that preventive detention under Section 144 CrPC must be strictly confined to the local limits of the police station jurisdiction and cannot be used for indefinite restrictions.\n\n### 5. Immediate Procedural Roadmap\n1. **File Writ Petition under Article 226**: Approach the High Court of the relevant state with a verified petition challenging the validity of the executive order.\n2. **Injunctive Relief Application**: Seek immediate interim stay of the order through an ex-parte application before the vacation of regular office hours.\n3. **Sole Testimonial Evidence**: Call upon the Special Government Pleader or Additional Advocate General to produce official records demonstrating compliance with procedural statutory formalities.\n4. **Expert",
+      "metrics": {
+        "schema_score": "5/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap"
+        ],
+        "extracted_articles": [
+          "Article 19(1)(a)",
+          "Article 21",
+          "Article 14",
+          "Article 19(2)"
+        ],
+        "article_count": 4
+      }
+    },
+    {
+      "case_id": "BENCH-03",
+      "case_title": "Adversarial Trap: Article 32 Writ against Private Hospital",
+      "prompt": "A private super-specialty hospital abruptly terminated a consultant surgeon without 30 days notice due to a personal dispute with the director. The surgeon wants to file a Writ Petition under Article 32 in the Supreme Court claiming violation of Article 21 (right to practice profession) and demanding immediate judicial reinstatement. What is the correct legal advice?",
+      "response": "### 1. Executive Legal Assessment\nTerminating an employee without statutory notice or compensation violates fundamental labor rights under the Industrial Disputes Act, 1947, and constitutional guarantees of fair labor practices.\n\n### 2. Constitutional Provisions & Rights Matrix\n**Applicable Constitutional Articles**: `[Article 14]`, `[Article 19(1)(g)]`, `[Article 21]`\n\n| Applicable Article | Constitutional Guarantee | Direct Nexus to the Scenario | Leading Judicial Precedent |\n| :--- | :--- | :--- | :--- |\n| **Article 14** | Rule of Law / Fair Labor Practices | Protects employees from arbitrary termination; mandates adherence to statutory procedural fairness. | *Maneka Gandhi v. Union of India (1978)* |\n| **Article 19(1)(g)** | Freedom of Trade / Professional Practice | Guarantees freedom to engage in professional trade; prohibits unreasonable restrictions. | *Bharatiya Mazdoor Sangh v. Union of India (1988)* |\n| **Article 21** | Right to Livelihood / Fair Employment Conditions | Enforces minimum standards of employment; prohibits arbitrary dismissal affecting basic sustenance. | *Olga Tellis v. Bombay Municipal Corporation (1985)* |\n\n### 3. Statutory Framework & Applicable Provisions\n* **Industrial Disputes Act, 1947 (ID Act) § 14(2)**: Employer must give 30 days' notice or pay equivalent compensation before terminating an employee.\n* **Section 19 ID Act**: Employee can apply to Labor Court for reinstatement if wrongfully dismissed.\n* **Central Civil Services (Classification, Control and Appeal) Rules, 1969, Rule 11**: Central Government employees have 30 days to appeal termination orders to the appropriate appellate authority.\n\n### 4. Binding Judicial Precedents & Legal Tests\n* **Union of India v. Tulsiram Patel (2008) 11 SCC 221**: Supreme Court held that failure to follow ID Act termination formalities renders discharge order void ab initio.\n* **Virendra Mohan Shukla v. State of Jharkhand (2012) 11 SCC 747**: Reaffirmed that constitutional guarantee of livelihood overrides contractual termination clauses.\n* **P. Ramadas v. State of Karnataka (2014) 11 SCC 747**: Held that continuous unlawful detention under wrongful termination violates Article 21.\n\n### 5. Immediate Procedural Roadmap\n1. **File Written Representation under ID Act § 14(2) before Labor Court / Civil Judge within 90 days** of termination.\n2. **Serve Notice of Regular Written Appeal under Central Government Rules (if applicable) within 30 days** of receipt of termination order.\n3. **File Writ Petition under Article 32 in the Supreme Court highlighting violation of Articles 14, 19(1)(g), and 21**, seeking immediate quashing of termination order and direction for judicial reinstatement pending disposal.\n\n### 6. Statutory Disclaimer\n*This advice is rendered for professional legal analysis and educational review under Indian constitutional, procedural, and statutory jurisprudence and does not substitute for formal engagement of an advocate before the appropriate court of competent jurisdiction.*",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [
+          "Article 14",
+          "Article 19(1)(g)",
+          "Article 21"
+        ],
+        "article_count": 3
+      }
+    }
+  ],
+  "DPO_7B": [
+    {
+      "case_id": "BENCH-01",
+      "case_title": "ED Summons & PMLA Arrest Safeguards",
+      "prompt": "An entrepreneur is summoned by the Enforcement Directorate (ED) under Section 50 of the Prevention of Money Laundering Act (PMLA). The officers demand his smartphone passcodes and threaten immediate arrest under Section 19 PMLA unless he signs a self-incriminating confessional statement. What constitutional and procedural protections apply?",
+      "response": "### 1. Executive Legal Assessment\nThe Enforcement Directorate's (ED) demand for passcodes to access electronic devices falls under the broad investigative powers granted under Section 50 PMLA but triggers stringent constitutional safeguards against unreasonable search and seizure under Article 20(3) protection against self-incrimination and privacy protections under Article 21.\n\n### 2. Constitutional Provisions & Rights Matrix\n**Applicable Constitutional Articles**: `[Article 20(3)]`, `[Article 21]`, `[Article 22(1)]`\n\n| Applicable Article | Constitutional Guarantee | Direct Nexus to the Scenario | Leading Judicial Precedent |\n| :--- | :--- | :--- | :--- |\n| **Article 20(3)** | Protection Against Compelled Self-Incrimination | Protects individuals from being compelled to be a witness against themselves in criminal proceedings and extends to investigative stages where self-incriminatory statements can be coercively extracted. | *Shafiqur Rahman v. State of U.P. (2010)* |\n| **Article 21** | Protection of Life and Personal Liberty; Privacy | Enforces reasonable restrictions on digital privacy searches that are not strictly necessary for national security or economic intelligence without violating the proportionality test. | *K.S. Puttaswamy v. Union of India (2017)* |\n| **Article 22(1)** | Protection of Arrested Persons; Right to Inform Family | Mandates that arrested persons must be informed of the grounds of arrest and have the right to inform their family or next of kin about the detention. | *State of Punjab v. Hardutt Singh (1981)* |\n\n### 3. Statutory Framework & Applicable Provisions\n* **Section 50 PMLA**: Grants powers to designated officers to require production of documents or electronic records including access to any computer resource.\n* **Section 19 PMLA**: Constitutes punishable offense for failure to provide information or documents upon summons, punishable with imprisonment up to seven years.\n* **Section 19(1)(b) PMLA**: Specific penalty for failing to disclose passcodes or passwords, punishable with imprisonment up to three years.\n\n### 4. Binding Judicial Precedents & Legal Tests\n* **Union of India v. K.T. Plantation Pvt. Ltd. (2012) 5 SCC 603**: Held that Section 50 PMLA does not violate constitutional guarantees as it is a reasonable restriction under Article 19(2) for economic integrity.\n* **Rangappa v. State of Karnataka (2014) 7 SCC 665**: Clarified that while Section 50 allows search and seizure of electronic media, it does not empower police to compel decryption.\n* **Virendra Khanna v. State of Maharashtra (2019) 5 SCC 1**: Struck down section 19(1)(b) as unconstitutional for violating fundamental rights but upheld other provisions of Chapter XV.\n\n### 5. Immediate Procedural Roadmap\n1. **Demand Written Notice Under Section 19(1)(b) PMLA**: Serve a formal notice requiring the accused to furnish passcodes within 24 hours.\n2. **File Anticipatory Bail Application**: Under Section 482 CrPC before the High Court challenging the validity of Section 19(1)(b) and seeking interim protection.\n3. **Move Special Court Under Section 482 CrPC / Section 195(6) CrPC**: Challenge the constitutional validity of Section 19(1)(b) before the Special PMLA Judge or High Court.\n\n### 6. Statutory Disclaimer\n*This advice is rendered for professional legal analysis and educational review under Indian constitutional, procedural, and statutory jurisprudence and does not substitute for formal engagement of an advocate before the appropriate court of competent jurisdiction.*",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [
+          "Article 20(3)",
+          "Article 21",
+          "Article 22(1)"
+        ],
+        "article_count": 3
+      }
+    },
+    {
+      "case_id": "BENCH-02",
+      "case_title": "Blanket Internet Shutdown & Proportionality Test",
+      "prompt": "A state government issued an indefinite administrative order shutting down mobile internet across three districts to prevent potential student protests against civil service exam leaks. Can this blanket shutdown be challenged under Article 226/32, and what judicial tests must the state satisfy?",
+      "response": "### 1. Executive Legal Assessment\nThe issuance of an indefinite administrative order by a state government to shut down mobile internet in specific districts without specifying a reasonable justification or adhering to proportionality principles is prima facie unconstitutional.\n\n### 2. Constitutional Provisions & Rights Matrix\n**Applicable Constitutional Articles**: `[Article 19(1)(a)]`, `[Article 21]`, `[Article 226]`\n\n| Applicable Article | Constitutional Guarantee | Direct Nexus to the Scenario | Leading Judicial Precedent |\n| :--- | :--- | :--- | :--- |\n| **Article 19(1)(a)** | Freedom of Speech and Expression | Protects digital communication and information flow unless strictly necessary for public order or morality. | *Bharati Ageda v. State of Karnataka (2015)* |\n| **Article 21** | Right to Privacy & Access to Information | Implies protection against arbitrary governmental interference with privacy of communications. | *K.S. Puttaswamy v. Union of India (2017)* |\n| **Article 226** | Judicial Review of Administrative Actions | Empowers High Courts to issue Writs against illegal executive orders affecting fundamental rights. | *Girish Kumar v. State of Karnataka (2018)* |\n\n### 3. Statutory Framework & Applicable Provisions\n* **Section 149/151 IPC**: Punishes criminal conspiracy and rioting; however, these sections require proof of specific intent and unlawful assembly.\n* **Section 69A IT Rules 2009**: Central Government can issue directives to block access to specific information, but it must be strictly necessary and proportionate.\n\n### 4. Binding Judicial Precedents & Legal Tests\n* **Bharati Ageda v. State of Karnataka (2015) 5 SCC 1**: Struck down state-level internet shutdown as unconstitutional; held that such shutdowns violate Article 19(1)(a).\n* **D.K. Basu v. State of West Bengal (1997) 1 SCC 416**: Laid down the 10-point test for validity of administrative rules; any rule violating these tests is void ab initio.\n* **Vernon v. State of Maharashtra (2018) 5 SCC 717**: Held that blanket internet shutdown violates Article 21 right to privacy and fair trial.\n\n### 5. Immediate Procedural Roadmap\n1. **File Writ Petition under Article 226 before the High Court of the jurisdictional state**.\n2. **Serve a Tripartite Notice to the State Advocate General, Additional Solicitor General of India, and District Magistrate**.\n3. **Pray for permanent injunction restraining the State from enforcing the internet shutdown order**.\n4. **Move an application under Section 69A IT Rules 2009 seeking directions to de-activate the blocking order**.\n\n### 6. Statutory Disclaimer\n*This advice is rendered for professional legal analysis and educational review under Indian constitutional, procedural, and statutory jurisprudence and does not substitute for formal engagement of an advocate before the appropriate court of competent jurisdiction.*",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [
+          "Article 19(1)(a)",
+          "Article 21",
+          "Article 226"
+        ],
+        "article_count": 3
+      }
+    },
+    {
+      "case_id": "BENCH-03",
+      "case_title": "Adversarial Trap: Article 32 Writ against Private Hospital",
+      "prompt": "A private super-specialty hospital abruptly terminated a consultant surgeon without 30 days notice due to a personal dispute with the director. The surgeon wants to file a Writ Petition under Article 32 in the Supreme Court claiming violation of Article 21 (right to practice profession) and demanding immediate judicial reinstatement. What is the correct legal advice?",
+      "response": "### 1. Executive Legal Assessment\nThe abrupt termination of employment without statutory 30 days notice violates the employee's contractual rights under the Contract of Employment and the statutory protections under the Industrial Disputes Act, 1947 (ID Act). However, directly invoking Article 32 for immediate judicial reinstatement is premature as this Article primarily deals with direct challenges to the constitutional validity of central or state legislation, orders or decrees of superior courts, or administrative actions violating fundamental rights. A more appropriate initial remedy would be to seek interim relief under Section 10 ID Act before the Labour Court.\n\n### 2. Constitutional Provisions & Rights Matrix\n**Applicable Constitutional Articles**: `[Article 14]`, `[Article 21]`, `[Article 300A]`\n\n| Applicable Article | Constitutional Guarantee | Direct Nexus to the Scenario | Leading Judicial Precedent |\n| :--- | :--- | :--- | :--- |\n| **Article 14** | Rule of Law / Protection Against Arbitrary Deprivation | Protects individuals from arbitrary dismissal from professional employment without just and reasonable procedure prescribed by statute or agreed upon contractually. | *Maneka Gandhi v. Union of India (1978)* |\n| **Article 21** | Right to Privacy / Fair Procedure in Professional Context | Guarantees fair procedural due process before depriving a person of their livelihood and professional standing. | *K.S. Puttaswamy v. Union of India (2017)* |\n| **Article 300A** | Constitutional Guarantee of Permanent Tenure to High Court Judges | While not directly applicable, it underscores the principle of security of tenure against arbitrary executive interference. | *State of Karnataka v. Sri Venkatesh (2017)* |\n\n### 3. Statutory Framework & Applicable Provisions\n* **Section 10 Industrial Disputes Act (ID Act)**: Mandatory provision requiring employers to furnish return within 30 days of termination stating reasons, which automatically triggers jurisdictional Labour Court/Board/Commissioner.\n* **Section 2(1)(c) ID Act**: Defines `employee` broadly to include doctors in private hospitals.\n* **Section 11(1) ID Act**: Power of Central Government or State Government to refer disputes to Conciliation Officer or Tribunal.\n\n### 4. Binding Judicial Precedents & Legal Tests\n* **Bharat Aluminium Co. (BALCO) Judgement (2012) 5 SCC 1**: Three-judge bench re-affirmed that non-compliance with statutory procedure for termination constitutes wrongful discharge actionable under Section 6(2) ID Act.\n* **Union of India v. Tulsiram Patel (2013) 11 SCC 707**: Held that failure to furnish return under Section 10 ID Act renders termination absolutely void.\n* **Vidya Drolia v. Durga Trading Corporation (2021) 1 SCC 1**: Reaffirmed that constitutional guarantees extend to economic and professional rights.\n\n### 5. Immediate Procedural Roadmap\n1. **File Return Under Section 10 ID Act**: Immediately furnish return before the jurisdictional Labour Court/Commissioner stating full particulars of termination and reasons.\n2. **Interim Application Before Labour Court**: Seek interim injunction restraining employer from interfering with medical registration or professional standing.\n3. **Section 11(1) ID Act Reference**: If conciliation fails, refer matter to the Industrial Tribunal for adjudication.\n\n### 6. Statutory Disclaimer\n*This advice is rendered for professional legal analysis and educational review under Indian constitutional, procedural, and statutory jurisprudence and does not substitute for formal engagement of an advocate before the appropriate court of competent jurisdiction.*",
+      "metrics": {
+        "schema_score": "6/6",
+        "sections_found": [
+          "Executive Legal Assessment",
+          "Constitutional Provisions",
+          "Statutory Framework",
+          "Judicial Precedents",
+          "Procedural Roadmap",
+          "Statutory Disclaimer"
+        ],
+        "extracted_articles": [
+          "Article 14",
+          "Article 21",
+          "Article 300A"
+        ],
+        "article_count": 3
+      }
+    }
+  ]
+}

@@ -19,13 +19,26 @@ from transformers import (
     BitsAndBytesConfig,
     TrainingArguments,
     Trainer,
-    DataCollatorForLanguageModeling
+    DataCollatorForLanguageModeling,
+    TrainerCallback
 )
 from peft import (
     LoraConfig,
     get_peft_model,
     prepare_model_for_kbit_training
 )
+
+class ProgressCallback(TrainerCallback):
+    def on_log(self, args, state, control, logs=None, **kwargs):
+        if logs and "loss" in logs:
+            loss = logs.get("loss")
+            lr = logs.get("learning_rate", 0.0)
+            epoch = logs.get("epoch", 0.0)
+            print(f">>> [PROGRESS] Step {state.global_step:3d}/{state.max_steps} | Loss: {loss:.4f} | LR: {lr:.3e} | Epoch: {epoch:.2f}", flush=True)
+
+    def on_save(self, args, state, control, **kwargs):
+        print(f">>> [CHECKPOINT] Checkpoint persisted to disk at step {state.global_step}!", flush=True)
+
 
 def build_tokenized_dataset(tokenizer, text_path, block_size=1024):
     print(f"[Dataset] Loading raw corpus from: {text_path}")
@@ -145,7 +158,8 @@ def main():
         model=model,
         args=training_args,
         train_dataset=dataset,
-        data_collator=data_collator
+        data_collator=data_collator,
+        callbacks=[ProgressCallback()]
     )
 
     # 7. Execute Continued Pre-Training
